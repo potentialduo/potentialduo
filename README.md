@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+ 
+ <img width="500" height="700" alt="1000057047" src="https://files.catbox.moe/zmfnry.png" />
 
-<!--
-**potentialduo/potentialduo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<div align="center">
+ 
+<img width="500" height="700" alt="1000057047" src="https://files.catbox.moe/rco4pc.png" /> <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<p align="center"> 
+  burp
