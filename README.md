@@ -21,5 +21,5 @@
 
 <p align="center"> 
     $${\textsf{\color{#D4C6AC}shu/shuvia, any prns}}$$<br>
-$${\textsf{\color{#D4C6AC}filipino, eng/filo/tiny bit of japanese}}$$<br>
+$${\textsf{\color{#D4C6AC}filipino, eng/filo, wifies enthusiast}}$$<br>
 <a href="https://basic-dni.crd.co/"> click me</a> $${\textsf{\color{#D4C6AC} <- byi read first}}$$<br>
